@@ -1,3 +1,3 @@
 # candidate-testing-autograded
 
-Little quiz to test candidates (Space Program), answer 5 questions and program will auto grade answers.
+Little quiz to test candidates (Space Program), 5 questions about space exploration. Program auto grades answers.
