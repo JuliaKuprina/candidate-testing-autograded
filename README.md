@@ -2,6 +2,6 @@
 
 JavaScript code. 
 
-Little quiz to test candidates (Space Program), 5 questions. 
+Quiz to test candidates (Space Program), 5 questions. 
 
 Program auto grades answers.
