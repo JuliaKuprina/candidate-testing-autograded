@@ -61,9 +61,9 @@ for (let i = 0; i < numberQuiz; i++) {
     status = "FAILED";
   }
 
-console.log("\n>>> Overall Grade: " + grade + "%");
+console.log ("\n>>> Overall Grade: " + grade + "%");
 
-console.log("\n>>> Correct Answers: " + numberCorrect + " of " + numberQuiz);
+console.log ("\n>>> Correct Answers: " + numberCorrect + " of " + numberQuiz);
 
 
 console.log ("\n>>> Status: " + status);
